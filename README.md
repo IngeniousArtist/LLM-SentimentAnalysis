@@ -8,6 +8,8 @@ Financial-PhraseBank: https://huggingface.co/datasets/financial_phrasebank
 Distilbert-Finance: https://huggingface.co/IngeniousArtist/distilbert-finance
 \
 StableLM-Finance: https://huggingface.co/IngeniousArtist/stablelm-3b-finance
+\
+OpenLlama-Finance: https://huggingface.co/IngeniousArtist/openllama-3b-finance
 
 # Model evaluation List
 distilbert-base-uncased
@@ -33,3 +35,5 @@ facebook/opt-2.7b
 EleutherAI/gpt-neo-2.7B
 \
 openlm-research/open_llama_3b_v2
+\
+IngeniousArtist/openllama-3b-finance
