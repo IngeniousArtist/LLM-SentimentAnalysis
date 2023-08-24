@@ -1,5 +1,5 @@
 # LLM-SentimentAnalysis
-Investigating performance of LLMs in financial text sentiment analysis task. We train 2 models (Distilbert and StableLM-3B) and compare against similar sized models on the huggingface hub.
+Investigating performance of LLMs in financial text sentiment analysis task. We train 3 models (Distilbert, StableLM-3B, OpenLlama-3B) and compare against similar sized models on the huggingface hub.
 
 # Dataset
 Financial-PhraseBank: https://huggingface.co/datasets/financial_phrasebank
